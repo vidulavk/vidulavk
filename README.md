@@ -19,7 +19,7 @@
 
 
 
-These experiences made me industry-ready, equipped with the organizational ethos and AI expertise in **signal**, **image**, **video** and **volume** data.
+
 
 
 
