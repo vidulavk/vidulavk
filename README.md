@@ -4,3 +4,7 @@
 <a href="https://www.linkedin.com/in/vidula-vk-296a3324b/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin">
 </a>
+
+<a href="mailto:vidula.sastra@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white">
+</a>
