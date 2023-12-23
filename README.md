@@ -19,7 +19,11 @@
 
 
 
-💬 Ask me about: Anything tech
-📫 How to reach me: Drop a mail
-⚡ Fun fact: Most people pronounce my first name wrong. Give it a try 🙃
-♟ Hobbies: Chess, Athletics and Music
+These experiences made me industry-ready, equipped with the organizational ethos and AI expertise in **signal**, **image**, **video** and **volume** data.
+
+
+
+- 💬 **Ask me about:** Anything tech
+- 📫 **How to reach me:** Drop a mail
+- ⚡ **Fun fact:** Most people pronounce my first name wrong. Give it a try 🙃
+- ♟ **Hobbies:** Chess, Athletics and Music
