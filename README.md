@@ -9,6 +9,10 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white">
 </a>
 
+<a href="https://twitter.com/VkVidula04">
+    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FDhruvSrikanth">
+</a>
+
 
 
 
