@@ -30,4 +30,4 @@
 - 💬 **Ask me about:** Anything tech
 - 📫 **How to reach me:** Drop a mail
 - ⚡ **Fun fact:** Most people pronounce my first name wrong. Give it a try 🙃
-- ♟ **Hobbies:** Chess, Athletics and Music
+- ♟ **Hobbies:** Chess, Dance and Music
